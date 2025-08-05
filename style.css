@@ -1,0 +1,24 @@
+/* style.css */
+body   {
+  font-family: Arial, san-serif;
+  background-color: #f6fff6;
+  color: #333;
+  margin:0;
+  padding: 0;
+}
+
+header{
+  background-color: #2e7d32;
+  color: white;
+  padding:1 rem;
+  text-align: center;
+}
+
+footer{
+  background-color: #c8e6c9
+  text-align: center;
+  padding: 1 rem;
+  postion: fixed;
+  bottom: 0;
+  width: 100%;
+}
